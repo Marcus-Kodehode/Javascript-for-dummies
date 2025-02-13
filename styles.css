@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+.character-sheet {
+    border: 2px solid black;
+    padding: 20px;
+    width: 300px;
+    background-color: #f9f9f9;
+    margin: 0 auto;
+}
+
+.character-sheet img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.stats {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+.stats li {
+    margin: 10px 0;
+}
